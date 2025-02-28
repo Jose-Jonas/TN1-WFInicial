@@ -9,11 +9,6 @@ namespace CEX3
             Console.WriteLine("Digite o primeiro número: "); int num1 = int.Parse(Console.ReadLine()!); Console.WriteLine("Digite o segundo número: "); int num2 = Convert.ToInt32(Console.ReadLine());//outra forma de converter  int maior = Math.Max(num1, num2); C
             Console.WriteLine("Digite o primeiro número: ");
 
-            int num1 = int.Parse(Console.ReadLine()!);
-
-            Console.WriteLine("Digite o segundo número: ");
-
-            int num2 = Convert.ToInt32(Console.ReadLine());//outra forma de converter
 
             int maior = Math.Max(num1, num2);
 
