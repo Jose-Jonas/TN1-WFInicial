@@ -43,5 +43,10 @@ namespace WFInicial
                 MessageBoxIcon.Warning);
             }
         }
+
+        private void InitializeComponent()
+        {
+
+        }
     }
 }
