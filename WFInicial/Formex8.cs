@@ -67,7 +67,7 @@ namespace WFInicial
                 string mensagem = $"A Radiação de {numero1} ^ {numero2} = {resultado}";
                 MessageBox.Show(mensagem, "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-            
+            kh
 
 
         }
