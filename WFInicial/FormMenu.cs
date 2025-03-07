@@ -64,6 +64,12 @@ namespace WFInicial
             Formex8 formex8 = new Formex8();
             formex8.ShowDialog();
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Formex09 formex09 = new Formex09();
+            formex09.ShowDialog();
+        }
     }
 
 }
